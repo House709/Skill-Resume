@@ -32,7 +32,7 @@ function About() {
       <div id="Summary" className=" flex gap-[83px]">
         <div className="text-[30px] text-[#002265] font-[500]">Summary</div>
         <div className="text-[22px]">
-          ชื่อ นาย พีรพัฒน์ ใจกล้า สามารถทำงาน font-end
+          ชื่อ นาย พีรพัฒน์ ใจกล้า Full-Stack developer
           <br /> จุดเด่น คือ สามารถศึกษาเรื่องใหม่ๆได้เสมอ ทำงานตรงเวลา
           ทำงานร่วมกับผู้อื่นได้
         </div>
@@ -50,7 +50,8 @@ function About() {
         <div className="text-[30px] text-[#002265] font-[500]">Education</div>
         <div className="text-[22px]">
           2018-2022: คณะวิทยาศาสตร์ สาขาคณิตศาสตร์ มหาวิทยาลัยเชียงใหม่ <br />
-          2012-2018: โรงเรียนเชียงคำวิทยาคม
+          2012-2018: โรงเรียนเชียงคำวิทยาคม <br />
+          2023: Techup
         </div>
       </div>
       <hr />
@@ -60,6 +61,9 @@ function About() {
           <ul>
             <li>Javascript</li>
             <li>React</li>
+            <li>node.js</li>
+            <li>postgreSQL(supabase)</li>
+            <li>DaisyUI</li>
             <li>Eng: B1</li>
           </ul>
         </div>

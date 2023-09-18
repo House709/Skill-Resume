@@ -15,7 +15,7 @@ function Passion() {
           <div>
             <span className="font-[700]">Front-End</span> Developer
           </div>
-          <div className="text-[18px]">(Sase, Bootstrap, Tailwind)</div>
+          <div className="text-[18px]">(Tailwind, MaterialUI, DaisyUI)</div>
         </div>
         <div className="flex flex-col items-center w-[347px] h-[266px] border-[1px] rounded-[13px] p-[15px] bg-[#FFF] shadow-xl">
           <div>
@@ -24,7 +24,7 @@ function Passion() {
           <div>
             <span className="font-[700]">Back-End</span> Developer
           </div>
-          <div className="text-[18px]">(Node.js, Laravel, Codeigniter)</div>
+          <div className="text-[18px]">(Node.js, Next.js, Spring Boot)</div>
         </div>
         <div className="flex flex-col items-center w-[347px] h-[266px] border-[1px] rounded-[13px] p-[15px] bg-[#FFF] shadow-xl">
           <div>
@@ -33,7 +33,7 @@ function Passion() {
           <div>
             <span className="font-[700]">UI/UX</span> Designer
           </div>
-          <div className="text-[18px]">(Figma, Zeplin, Adobe XD)</div>
+          <div className="text-[18px]">(Figma, Adobe XD)</div>
         </div>
       </div>
     </div>
